@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studio: one
+  location: one
+  building: MyString
+
+two:
+  studio: two
+  location: two
+  building: MyString

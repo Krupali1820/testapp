@@ -1,0 +1,2 @@
+class StudioType < ApplicationRecord
+end

@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  details: MyString
+  booking_duration: 1
+  studio_type: one
+  past_clients: MyText
+  main_equipment: MyText
+  charge_per_hour: 1
+  is_audio_engineer_included: false
+  rule: one
+  location: one
+
+two:
+  name: MyString
+  details: MyString
+  booking_duration: 1
+  studio_type: two
+  past_clients: MyText
+  main_equipment: MyText
+  charge_per_hour: 1
+  is_audio_engineer_included: false
+  rule: two
+  location: two
